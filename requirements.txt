@@ -1,0 +1,14 @@
+streamlit>=1.30.0
+langchain>=0.0.335
+langchain_community>=0.0.20
+langchain-openai>=0.0.5
+langchain-ollama>=0.0.2
+langchain-chroma>=0.0.1
+langchain-cohere>=0.0.1
+langchainhub>=0.1.14
+chromadb==0.6.0
+langgraph>=0.0.24
+tiktoken>=0.5.2
+marker-pdf>=0.1.5
+pydantic>=2.5.0
+pillow>=10.1.0 
